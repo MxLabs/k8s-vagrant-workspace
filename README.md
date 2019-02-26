@@ -1,3 +1,8 @@
-# Kubernetes Workspace
+# Kubernetes development workspace with cluster
 
-1 Master 4 Node
+
+#### Create development workspace
+
+```
+vagrant up
+```
